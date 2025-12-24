@@ -6,7 +6,7 @@ No momento estou sem acesso a um computador, portanto a implementação será ad
 Agradeço pela compreensão! 🙌
 
 
-## Prévisualização do Dashboard
+## Pré-visualização do Dashboard
 
 **Dashboard**
 !['dashboard'](arquivos/dashboard.png)
