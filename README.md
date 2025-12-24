@@ -8,5 +8,14 @@ Agradeço pela compreensão! 🙌
 
 ## Prévisualização do Dashboard
 
-**Dashboard**
-!['dashboard'](arquivos/dashboard.png)
+**Visão 1**
+!['dashboard'](arquivos/dashboard_1.png)
+
+**Visão 2**
+!['dashboard'](arquivos/dashboard_2.png)
+
+**Visão 3**
+!['dashboard'](arquivos/dashboard_3.png)
+
+**Visão 4**
+!['dashboard'](arquivos/dashboard_4.png)
